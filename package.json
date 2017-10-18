@@ -1,0 +1,28 @@
+{
+  "name": "upoint-ui",
+  "version": "1.0.0",
+  "description": "UI framework for Component17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/component17/ui-framework.git"
+  },
+  "keywords": [
+    "UI",
+    "vue",
+    "vue-framework",
+    "component17",
+    "upoint",
+    "upointUI",
+    "UIframework"
+  ],
+  "author": "Component17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/component17/ui-framework/issues"
+  },
+  "homepage": "https://github.com/component17/ui-framework#readme"
+}
